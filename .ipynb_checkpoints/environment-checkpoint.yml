@@ -1,0 +1,12 @@
+name: datasci
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.4
+  - matplotlib=3.2.2
+  - seaborn=0.10.1
+  - numpy=1.19.0
+  - jupyterlab=2.2.0
+prefix: /Users/neha/opt/miniconda3/envs/datasci
+
